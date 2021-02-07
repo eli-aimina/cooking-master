@@ -1,0 +1,18 @@
+body {
+    background-color: #f3efb6;
+}
+.logo {
+    width: 50%;
+}
+section{
+    margin: 40px 0 40px 0;
+}
+.card{
+    margin-bottom: 20px;
+}
+h6, ul{
+    text-align: left;
+}
+ul li{
+    list-style:  none;
+}
